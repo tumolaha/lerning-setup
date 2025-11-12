@@ -2,7 +2,9 @@
   "name": "@lerning-setup/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "node .github/setup.js"
+  },
   "private": true,
   "dependencies": {},
   "devDependencies": {
